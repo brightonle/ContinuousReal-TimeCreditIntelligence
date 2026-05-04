@@ -1,0 +1,41 @@
+# LangChain stack
+langchain-core
+langchain
+langchain-community
+langchain-anthropic
+langgraph
+
+# Claude API
+anthropic
+
+# Vector store & embeddings
+chromadb
+langchain-chroma
+sentence-transformers
+
+# Data sources
+sec-edgar-downloader
+yfinance
+newsapi-python
+feedparser
+
+# Structured output
+pydantic
+pydantic-settings
+
+# HTTP & parsing
+requests
+httpx
+beautifulsoup4
+
+# Data & scheduling
+pandas
+apscheduler
+tenacity
+
+# Dashboard
+streamlit
+plotly
+
+# Config & utilities
+python-dotenv

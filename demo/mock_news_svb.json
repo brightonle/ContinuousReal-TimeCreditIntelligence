@@ -1,0 +1,65 @@
+[
+  {
+    "ticker": "SIVB",
+    "headline": "SVB Financial Group Reports Record Annual Revenue for 2021",
+    "content": "SVB Financial Group (NASDAQ: SIVB) today reported record full-year 2021 net income of $1.77 billion and total assets of $211.8 billion, up 83% from year-end 2020. The bank's venture-backed tech and life sciences clients drove exceptional deposit growth throughout the year. Management noted growing held-to-maturity securities portfolio as the bank deployed excess deposits.",
+    "published_date": "2022-01-20",
+    "source": "Mock/SVBPress"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "Fed Rate Hikes Put Pressure on Bond Portfolios at Regional Banks Including SVB",
+    "content": "As the Federal Reserve embarks on its most aggressive rate hiking cycle in decades, analysts are raising concerns about unrealized losses building in the bond portfolios of regional banks. SVB Financial Group, which deployed significant excess deposits into long-duration securities during the low-rate environment, faces growing paper losses on its held-to-maturity portfolio. The bank has not had to realize these losses, but they represent a significant risk if the deposit base were to shrink unexpectedly.",
+    "published_date": "2022-06-15",
+    "source": "Mock/Reuters"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "SVB's HTM Portfolio Faces $9.5 Billion in Unrealized Losses as Rates Rise",
+    "content": "Silicon Valley Bank disclosed in its Q2 2022 10-Q filing that its held-to-maturity investment securities portfolio has accumulated approximately $9.5 billion in unrealized losses due to rising interest rates. While accounting rules do not require these losses to flow through the income statement, they represent potential capital impairment if the bank were forced to sell the securities. Total equity stands at approximately $16.2 billion, meaning the HTM losses represent about 59% of equity.",
+    "published_date": "2022-08-10",
+    "source": "Mock/WSJ"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "Venture Capital Funding Slumps as Tech Stocks Decline — SVB Deposit Growth Slows",
+    "content": "The slowdown in venture capital funding activity is beginning to affect Silicon Valley Bank's deposit base. Startup clients are burning through existing cash at higher rates while new fundraising has slowed dramatically. SVB reported deposit balances declined approximately 8.8% quarter-over-quarter in Q3 2022 as clients drew down accounts. The bank's deposits are heavily concentrated in uninsured accounts, with more than 90% exceeding the FDIC's $250,000 insurance limit.",
+    "published_date": "2022-11-05",
+    "source": "Mock/FT"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "SVB Financial's HTM Losses Now Exceed 97% of Total Equity, Analysts Warn",
+    "content": "New analysis of SVB Financial Group's Q3 2022 10-Q filing shows that unrealized losses on the bank's held-to-maturity securities portfolio have reached approximately $15.9 billion, representing about 97% of the bank's total stockholders' equity of $16.3 billion. 'This is an extraordinary risk concentration,' one analyst noted. 'If SVB were ever forced to liquidate this portfolio, the bank would effectively be insolvent.' The bank maintains it has no intention of selling the securities and they will mature at par.",
+    "published_date": "2022-11-15",
+    "source": "Mock/Bloomberg"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "SVB Stock Falls 20% as Tech Sector Layoffs Accelerate Deposit Withdrawals",
+    "content": "Shares of SVB Financial Group fell more than 20% over the past month as investors grew increasingly concerned about the bank's exposure to the struggling technology sector. Mass layoffs at major tech companies are expected to accelerate withdrawals from SVB's startup client accounts. The bank's stock is now trading below book value for the first time in years, with a price-to-book ratio of approximately 0.85.",
+    "published_date": "2023-01-12",
+    "source": "Mock/CNBC"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "Concerns Mount Over SVB's Exposure to Uninsured Deposits and Rate-Sensitive Portfolio",
+    "content": "Credit analysts at multiple institutions are flagging Silicon Valley Bank as a growing concern heading into 2023. The bank's unique customer profile — dominated by venture-backed startups and tech companies — means its deposit base is both highly concentrated and highly correlated. 'In a stress scenario, SVB's depositors would all want to leave at the same time for the same reason,' one credit analyst wrote in a note. The bank's held-to-maturity portfolio continues to accumulate unrealized losses as rates remain elevated.",
+    "published_date": "2023-01-28",
+    "source": "Mock/SeekingAlpha"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "SVB Financial Announces Sale of $21 Billion Securities Portfolio at $1.8 Billion Loss",
+    "content": "SVB Financial Group announced late Wednesday that it sold substantially all of its available-for-sale securities portfolio, realizing an after-tax loss of approximately $1.8 billion. The bank said it made the decision to reposition its balance sheet and would seek to raise $2.25 billion in new capital through a combination of common stock and preferred shares. The announcement triggered significant concern among investors and clients about the bank's financial stability.",
+    "published_date": "2023-03-08",
+    "source": "Mock/Bloomberg"
+  },
+  {
+    "ticker": "SIVB",
+    "headline": "SVB Bank Run: Customers Withdraw $42 Billion in One Day; Regulators Seize Bank",
+    "content": "California regulators seized Silicon Valley Bank on Friday after a bank run that saw customers attempt to withdraw $42 billion in a single day — roughly a quarter of the bank's deposit base. The Federal Deposit Insurance Corporation was appointed as receiver. SVB became the largest US bank failure since Washington Mutual in 2008. The collapse followed Wednesday's announcement of a securities sale and capital raise that spooked clients, many of whom had uninsured deposits well above the $250,000 FDIC limit.",
+    "published_date": "2023-03-10",
+    "source": "Mock/Reuters"
+  }
+]
